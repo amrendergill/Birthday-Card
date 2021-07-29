@@ -1,1 +1,1 @@
-## Birthady Card using ReactJs
+## Birthday Card using ReactJs
